@@ -45,3 +45,16 @@ This HTML file demonstrates basic text formatting tags.
 This file showcases various text formatting styles in HTML.  
 
 ---------------------------------------------------------------------------
+
+## 04 - Line Breaks and Comments in HTML  
+This HTML file demonstrates line breaks and comments in HTML.  
+### Key Features:  
+- `<!-- -->` Adds comments inside the HTML code.  
+- `<p>` Defines a paragraph.  
+- `<br>` Inserts a line break within text.  
+- `<br/>` Another way to add a line break (self-closing).  
+- `<hr>` Creates a horizontal line.  
+
+This file showcases how to use line breaks and comments in HTML.  
+
+---------------------------------------------------------------------------
