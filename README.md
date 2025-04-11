@@ -24,3 +24,24 @@ This HTML file demonstrates basic tags and elements.
 - `<style>` Changes the heading color to red.  
 
 ---------------------------------------------------------------------------
+
+## 03 - Formatting Text in HTML  
+This HTML file demonstrates basic text formatting tags.  
+### Key Features:  
+- `<h1>` to `<h6>` Different levels of headings.  
+- `<p>` Contains styled text.  
+- `<b>` and `<strong>` Highlights important text.  
+- `<em>` Emphasized text.  
+- `<u>` Underlined text.  
+- `<mark>` Highlights text.  
+- `<ins>` and `<del>` Shows text modifications.  
+- `<sub>` and `<sup>` Displays small text above or below.  
+- `<dfn>` Defines a term.  
+- `<kbd>` Represents keyboard input.  
+- `<pre>` Maintains text formatting.  
+- `<time>` Displays a timestamp.  
+- `<q>` Adds inline quotes.  
+
+This file showcases various text formatting styles in HTML.  
+
+---------------------------------------------------------------------------
