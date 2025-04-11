@@ -72,3 +72,12 @@ This HTML file demonstrates quotation and citation tags.
 This file showcases how to use various quotation and citation elements in HTML.  
 
 ---------------------------------------------------------------------------
+
+## 06_HTML links
+This HTML file demonstrates the use of links and the `mailto` feature.
+## Key Features:
+- **`<a href="new.html">Click here</a>`**: A clickable link that redirects to `new.html`.
+- **`<p id="this">Lorem ipsum dolor sit, amet consectetur adipisicing elit...`**: A paragraph with some placeholder text.
+- **`<a href="mailto:test@gmail.com">Send mail</a>`**: A link that opens the default mail client to send an email to `test@gmail.com`.
+
+---------------------------------------------------------------------------
