@@ -13,3 +13,14 @@ This is a basic HTML document that displays "Hello world!" on a webpage.
 - `<h1>` Displays the main heading on the page.  
 
 ---------------------------------------------------------------------------
+
+## 02 - HTML Tags and Elements Basics  
+This HTML file demonstrates basic tags and elements.  
+### Key Features:  
+- `<h1>` Displays Sivanathan Dilakshan with a red color.  
+- `<span>` Used inside the heading for styling purposes.  
+- `<p>` Currently empty.  
+- `<a>` A clickable link to Google.  
+- `<style>` Changes the heading color to red.  
+
+---------------------------------------------------------------------------
