@@ -327,3 +327,20 @@ This file demonstrates how to use HTML5 multimedia features to enhance user expe
 Ensure these files are in the same directory for proper functionality.
 
 ---------------------------------------------------------------------------
+
+Congratulations on completing the HTML Basics Section! 🎉
+We learned the fundamental building blocks of HTML, including:
+covered the essentials:
+✅ Structure & formatting
+✅ Links, images, media
+✅ Forms, tables & accessibility
+✅ Semantic elements for better HTML
+
+With this solid foundation, you’re ready to level up! 🚀
+
+What’s next?
+🔹 Add style with CSS 🎨
+🔹 Make it interactive with JavaScript ⚡
+🔹 Build fun projects & keep practicing!
+
+Keep coding & stay curious! 💻✨
