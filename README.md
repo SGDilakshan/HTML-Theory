@@ -111,3 +111,18 @@ This HTML file demonstrates the use of **HTML entities** to display special char
 This file is useful for displaying reserved characters in HTML without affecting the document structure.  
 
 ---------------------------------------------------------------------------
+
+# 09_Generic HTML Elements  
+This HTML file demonstrates the use of **generic container elements** in HTML.  
+## Key Features:  
+- **`<div>`**:  
+  - A block-level container used for grouping elements.  
+  - Styled with `border: 1px solid black;` to show its boundaries.  
+
+- **`<span>`**:  
+  - An inline container used for styling specific portions of text.  
+  - Styled with `border: 1px solid black;` to show its boundaries.  
+
+This file highlights the difference between **block-level (`<div>`)** and **inline (`<span>`)** elements in HTML.  
+
+---------------------------------------------------------------------------
