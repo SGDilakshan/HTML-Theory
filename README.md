@@ -304,3 +304,26 @@ This HTML file demonstrates the use of **ARIA (Accessible Rich Internet Applicat
 This file demonstrates how **ARIA attributes** improve web accessibility for users with disabilities.  
 
 ---------------------------------------------------------------------------
+
+# 16_HTML Multimedia  
+This HTML file demonstrates the use of **multimedia elements** such as **audio** and **video**, including support for media controls and subtitles.
+## Key Features:
+- **Audio Element**:
+  - The `<audio>` element is used to embed sound content in the webpage. It includes the `controls` attribute to allow users to play, pause, and adjust the volume of the audio.
+  - The `<source>` tag specifies the audio file (`Audio sample.mp3`) and its type (`audio/mp3`).
+
+- **Video Element**:
+  - The `<video>` element is used to embed a video on the webpage, with controls for play, pause, and volume adjustment.
+  - The `<source>` tag specifies the video file (`Video sample.mp4`) and its type (`video/mp4`).
+  - The `<track>` tag is used to add subtitles (`Subtitle Sample.vtt`) for the video. The `srclang="en"` specifies that the subtitles are in English, and `kind="subtitles"` defines their role.
+
+This file demonstrates how to use HTML5 multimedia features to enhance user experience by embedding audio and video with accessible options.
+
+## Files:
+- **Audio sample.mp3**: The audio file for playback.
+- **Video sample.mp4**: The video file with playback controls.
+- **Subtitle Sample.vtt**: Subtitles in WebVTT format for the video.
+
+Ensure these files are in the same directory for proper functionality.
+
+---------------------------------------------------------------------------
