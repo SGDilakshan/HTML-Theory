@@ -82,7 +82,7 @@ This HTML file demonstrates the use of links and the `mailto` feature.
 
 ---------------------------------------------------------------------------
 
-# 07_HTML images
+# 07_HTML Images
 This HTML file demonstrates how to use images and image maps in HTML.  
 ## Key Features:  
 - **`<img>`**: Displays an image with attributes:  
@@ -96,5 +96,18 @@ This HTML file demonstrates how to use images and image maps in HTML.
 - **`<area>`**: Creates clickable areas on the image:  
   - `shape="rect" coords="0,0,100,100"`: Defines a rectangular clickable area linking to [Google](https://google.com).  
   - `shape="circle" coords="150,150,50"`: Defines a circular clickable area linking to [YouTube](https://youtube.com).    
+
+---------------------------------------------------------------------------
+
+# 08_HTML Entities 
+This HTML file demonstrates the use of **HTML entities** to display special characters.  
+## Key Features:  
+- **`&amp;`**: Displays `&` (ampersand).  
+- **`&nbsp;`**: Adds a non-breaking space.  
+- **`&copy;`**: Displays `©` (copyright symbol).  
+- **`&quot;`**: Displays `"` (double quotation mark).  
+- **`&lt;h3&gt;`**: Displays `<h3>` as text instead of rendering it as an HTML element.  
+
+This file is useful for displaying reserved characters in HTML without affecting the document structure.  
 
 ---------------------------------------------------------------------------
